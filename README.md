@@ -3,6 +3,7 @@
 </div>
  <div align="center">
   <br>
+  <img align="center" alt="xaropizao-C" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img align="center" alt="xaropizao-RUBY" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg">
   <img align="center" alt="xaropizao-Python" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="xaropizao-Shell" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg">
